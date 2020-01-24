@@ -1,6 +1,6 @@
 # Numerical-Methods-Project
 Here the programs given can solve different types of algebraic and transcendental equations. Three methods as listed below have been used here.
 
-Bisection Method.
-Fixed Point Iteration.
-Newton - Raphson Method.
+  1. Bisection Method.
+  2. Fixed Point Iteration.
+  3. Newton - Raphson Method.
